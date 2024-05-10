@@ -17,5 +17,5 @@ function OrderItem({ item, isLoadingIngredients, ingredients }) {
     </li>
   );
 }
-
+ 
 export default OrderItem;
